@@ -18,7 +18,7 @@ body{
 .backgroundImage{
     background-image: url(images/banner.jpg);
     background-size: cover;
-    height: 680px;
+    height: 750px;
     text-align: center;
 }
 
@@ -59,7 +59,7 @@ button{
 }
 
 .secondDiv{
-padding-top: 100px;
+margin-top: 150px;
 margin-left: 25%;
 height: 520px;
 }
